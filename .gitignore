@@ -1,0 +1,9 @@
+.*
+!.gitignore
+terraform.tfstate
+terraform.tfstate.backup
+*.plan
+*.json
+*.pem
+*.tfvars
+id_rsa*
